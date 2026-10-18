@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+
+# Předváděcí verze. Po schválení se při výměně za ostrý web zapne indexace a doplní Sitemap.
