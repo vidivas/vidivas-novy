@@ -1,7 +1,7 @@
 import os, json, html
 BASE="/vidivas-novy"
 FINAL="https://vidivas.cz"
-TEL="+420739878739"; TELH="739 878 739"; MAIL="info@vidivas.cz"
+TEL="+420739878732"; TELH="739 878 732"; MAIL="info@vidivas.cz"
 MISE="Pomáháme řemeslníkům, aby jejich online profil byl moderní a funkční pro dnešní dobu."
 ENDPOINT="https://vidivas.cz/api/poptavka"
 pages=[]  # (path,title)
